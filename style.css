@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Monogram";
+    src: url('./font/monogram.ttf')
+}
+
+body {
+    font-family: "Monogram", monospace;
+    text-align: center;
+}
+
+h1 {
+    font-size: 4rem;
+    text-transform: uppercase;
+}
+
+#board {
+    background-color: lightgray;
+    border-bottom: 1px solid black;
+}
